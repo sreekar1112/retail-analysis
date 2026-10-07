@@ -1,0 +1,194 @@
+Year,Quarter,Category,Subcategory,Market_Sales_Million_USD,Lowes_Sales_Million_USD,HomeDepot_Sales_Million_USD,Other_Competitors_Sales_Million_USD,Data_Source,Data_Status,Market_Share_Lowes_Pct,Market_Share_HomeDepot_Pct
+2022,Q1,Tools,Power Tools,3553.63,739.15,1009.23,1805.24,Synthetic portfolio dataset,Clean,20.8,28.4
+2022,Q1,Tools,Hand Tools,2178.03,453.03,618.56,1106.44,Synthetic portfolio dataset,Clean,20.8,28.4
+2022,Q2,Tools,Power Tools,4338.52,902.41,1232.14,2203.97,Synthetic portfolio dataset,Clean,20.8,28.4
+2022,Q2,Tools,Hand Tools,2659.09,553.09,755.18,1350.82,Synthetic portfolio dataset,Clean,20.8,28.4
+2022,Q3,Tools,Power Tools,4412.68,917.84,1253.2,2241.64,Synthetic portfolio dataset,Clean,20.8,28.4
+2022,Q3, Outdoor,Hand Tools,2704.55,562.55,768.09,1373.91,Synthetic portfolio dataset,Clean,20.8,28.4
+2022,Q4,Tools,Power Tools,3195.18,664.6,907.43,1623.15,Synthetic portfolio dataset,Clean,20.8,28.4
+2022,Q4,Tools,Hand Tools,1958.33,407.33,556.17,994.83,Synthetic portfolio dataset,Clean,20.8,28.4
+2023,Q1,Tools,Power Tools,3837.92,782.94,1097.64,1957.34,Synthetic portfolio dataset,Clean,20.4,28.6
+2023,Q1,Tools,Hand Tools,2352.27,479.86,672.75,1199.66,Synthetic portfolio dataset,Clean,20.4,28.6
+2023,Q2,Tools,Power Tools,4685.6,955.86,1340.08,2389.66,Synthetic portfolio dataset,Clean,20.4,28.6
+2023,Q2,Tools,Hand Tools,2871.82,585.85,821.34,1464.63,Synthetic portfolio dataset,Clean,20.4,28.6
+2023,Q3,Tools,Power Tools,4765.69,972.2,1362.99,2430.5,Synthetic portfolio dataset,Clean,20.4,28.6
+2023,Q3,Tools,Hand Tools,2920.91,595.87,835.38,1489.66,Synthetic portfolio dataset,Clean,20.4,28.6
+2023,Q4,Tools,Power Tools,3450.79,703.96,986.93,1759.9,Synthetic portfolio dataset,Clean,20.4,28.6
+2023,Q4,Tools,Hand Tools,2115.0,431.46,604.89,1078.65,Synthetic portfolio dataset,Clean,20.4,28.6
+2024,Q1,Tools,Power Tools,4150.64,834.28,1199.53,2116.83,Synthetic portfolio dataset,Clean,20.1,28.9
+2024,Q1,Tools,Hand Tools,2543.94,511.33,735.2,1297.41,Synthetic portfolio dataset,Clean,20.1,28.9
+2024,Q2,Tools,Kitchen Appliance,5067.39,1018.54,1464.48,2584.37,Synthetic portfolio dataset,Clean,20.1,28.9
+2024,Q2,Tools,Hand Tools,3105.82,624.27,897.58,1583.97,Synthetic portfolio dataset,Clean,20.1,28.9
+2024,Q3,Tools,Power Tools,5154.01,1035.96,1489.51,2628.54,Synthetic portfolio dataset,Clean,20.1,28.9
+2024,Q3,Tools,Hand Tools,3158.91,634.94,912.92,1611.04,Synthetic portfolio dataset,Clean,20.1,28.9
+2024,Q4,Tools,Power Tools,3731.96,750.12,1078.54,1903.3,Synthetic portfolio dataset,Clean,20.1,28.9
+2024,Q4,Tools,Hand Tools,2287.33,459.75,661.04,1166.54,Synthetic portfolio dataset,Clean,20.1,28.9
+2025,Q1,Tools,Power Tools,4477.57,886.56,1302.97,2288.04,Synthetic portfolio dataset,Clean,19.8,29.1
+2025,Q1,Tools,Hand Tools,2744.32,543.38,798.6,1402.35,Synthetic portfolio dataset,Clean,19.8,29.1
+2025,Q2,Tools,Power Tools,5466.53,1082.37,1590.76,2793.4,Synthetic portfolio dataset,Clean,19.8,29.1
+2025,Q2,Tools,Hand Tools,3350.45,,974.98,1712.08,Synthetic portfolio dataset,Clean,19.8,29.1
+2025,Q3,Tools,Power Tools,5559.98,1100.88,1617.95,2841.15,Synthetic portfolio dataset,Clean,19.8,29.1
+2025,Q3,Tools,Hand Tools,3407.73,674.73,991.65,1741.35,Synthetic portfolio dataset,Clean,19.8,29.1
+2025,Q4,Tools,Power Tools,4025.92,797.13,1171.54,2057.25,Synthetic portfolio dataset,Clean,19.8,29.1
+2025,Q4,Tools,Hand Tools,2467.5,488.56,718.04,1260.89,Synthetic portfolio dataset,Clean,19.8,29.1
+2022,Q1,Appliances,Kitchen Appliances,4614.81,1126.01,1282.92,2205.88,Synthetic portfolio dataset,Clean,24.4,27.8
+2022,Q1,Appliances,Laundry Appliances,2595.83,633.38,721.64,1240.81,Synthetic portfolio dataset,Clean,24.4,27.8
+2022,Q2,Appliances,Kitchen Appliances,5583.22,1362.31,1552.14,2668.78,Synthetic portfolio dataset,Clean,24.4,27.8
+2022,Q2,Appliances,Laundry Appliances,3140.56,766.3,873.08,1501.19,Synthetic portfolio dataset,Clean,24.4,27.8
+2022,Q3,Appliances,Kitchen Appliances,5732.68,1398.77,1593.69,2740.22,Synthetic portfolio dataset,Clean,24.4,27.8
+2022,Q3,Appliances,Laundry Appliances,3224.63,786.81,896.45,1541.37,Synthetic portfolio dataset,Clean,24.4,27.8
+2022,Q4,Appliances,Kitchen Appliances,4549.29,1110.03,1264.7,2174.56,Synthetic portfolio dataset,Clean,24.4,27.8
+2022,Q4,Appliances,Laundry Appliances,2558.98,624.39,711.4,1223.19,Synthetic portfolio dataset,Clean,24.4,27.8
+2023,Q1,Appliances,Kitchen Appliances,4816.71,1204.18,1343.86,2268.67,Synthetic portfolio dataset,Clean,25.0,27.9
+2023,Q1,Appliances,Laundry Appliances,2709.4,677.35,-125.0,1276.13,Synthetic portfolio dataset,Clean,25.0,27.9
+2023,Q2,Appliances,Kitchen Appliances,5827.49,1456.87,1625.87,2744.75,Synthetic portfolio dataset,Clean,25.0,27.9
+2023,Q2,Appliances,Laundry Appliances,3277.96,819.49,914.55,1543.92,Synthetic portfolio dataset,Clean,25.0,27.9
+2023,Q3,Appliances,Kitchen Appliances,5983.48,1495.87,1669.39,2818.22,Synthetic portfolio dataset,Clean,25.0,27.9
+2023,Q3,Appliances,Laundry Appliances,3365.71,841.43,939.03,1585.25,Synthetic portfolio dataset,Clean,25.0,27.9
+2023,Q4,Appliances,Kitchen Appliances,4748.32,1187.08,1324.78,2236.46,Synthetic portfolio dataset,Clean,25.0,27.9
+2023,Q4,Appliances,Laundry Appliances,2670.93,667.73,745.19,1258.01,Synthetic portfolio dataset,Clean,25.0,27.9
+2024,Q1,Appliances,Kitchen Appliances,5033.02,1283.42,1414.28,2335.32,Synthetic portfolio dataset,Clean,25.5,28.1
+2024,Q1,Appliances,Laundry Appliances,2831.08,721.92,795.53,1313.62,Synthetic portfolio dataset,Clean,25.5,28.1
+2024,Q2,Appliances,Kitchen Appliances,6089.2,1552.75,1711.07,2825.39,Synthetic portfolio dataset,Clean,25.5,28.1
+2024,Q2,Appliances,Laundry Appliances,3425.18,873.42,962.47,1589.28,Synthetic portfolio dataset,Clean,25.5,28.1
+2024,Q3,Appliances,Kitchen Appliances,6252.2,1594.31,1756.87,2901.02,Synthetic portfolio dataset,Clean,25.5,28.1
+2024,Q3,Appliances,Laundry Appliances,3516.86,896.8,988.24,1631.83,Synthetic portfolio dataset,Clean,25.5,28.1
+2024,Q4,Appliances,Kitchen Appliances,4961.57,1265.2,1394.2,2302.17,Synthetic portfolio dataset,Clean,25.5,28.1
+2024,Q4,Appliances,Laundry Appliances,2790.88,711.68,784.24,1294.97,Synthetic portfolio dataset,Clean,25.5,28.1
+2025,Q1,Appliances,Kitchen Appliances,5292.61,1381.37,1492.52,2418.72,Synthetic portfolio dataset,Clean,26.1,28.2
+2025,Q1,Appliances,Laundry Appliances,2977.09,777.02,839.54,1360.53,Synthetic portfolio dataset,Clean,26.1,28.2
+2025,Q2,Appliances,Kitchen Appliances,6403.26,1671.25,1805.72,2926.29,Synthetic portfolio dataset,Clean,26.1,28.2
+2025,Q2,Appliances,Laundry Appliances,3601.83,940.08,1015.72,1646.04,Synthetic portfolio dataset,Clean,26.1,28.2
+2025,Q3,Appliances,Kitchen Appliances,6574.67,1715.99,1854.06,3004.62,Synthetic portfolio dataset,Clean,26.1,28.2
+2025,Q3,Appliances,Laundry Appliances,3698.25,965.24,1042.91,1690.1,Synthetic portfolio dataset,Clean,26.1,28.2
+2025,Q4,Appliances,Kitchen Appliances,5217.47,1361.76,1471.33,2384.38,Synthetic portfolio dataset,Clean,26.1,28.2
+2025,Q4,Appliances,Laundry Appliances,3463.0993999999996,765.99,827.62,1341.22,Synthetic portfolio dataset,Clean,26.1,28.2
+2022,Q1,Outdoor,Lawn & Garden,2307.46,503.03,618.4,1186.03,Synthetic portfolio dataset,Clean,21.8,26.8
+2022,Q1,Outdoor,Outdoor Living,1670.92,364.26,447.81,858.85,Synthetic portfolio dataset,Clean,21.8,26.8
+2022,Q2,Outdoor,Lawn & Garden,3893.84,848.86,1043.55,2001.43,Synthetic portfolio dataset,Clean,21.8,26.8
+2022,Q2,Outdoor,Outdoor Living,2819.68,614.69,755.67,1449.31,Synthetic portfolio dataset,Clean,21.8,26.8
+2022,Q3,Outdoor,Lawn & Garden,4213.62,918.57,1129.25,2165.8,Synthetic portfolio dataset,Clean,21.8,26.8
+2022,Q3,Outdoor,Outdoor Living,3051.24,665.17,817.73,1568.34,Synthetic portfolio dataset,Clean,21.8,26.8
+2022,Q4,Outdoor,Lawn & Garden,2345.08,511.23,628.48,1205.37,Synthetic portfolio dataset,Clean,21.8,26.8
+2022,Q4,Outdoor,Outdoor Living,1698.16,370.2,455.11,872.86,Synthetic portfolio dataset,Clean,21.8,26.8
+2023,Q1,Outdoor,Lawn & Garden,2517.23,571.41,667.07,1278.75,Synthetic portfolio dataset,Clean,22.7,26.5
+2023,Q1,Outdoor,Outdoor Living,1822.82,413.78,483.05,925.99,Synthetic portfolio dataset,Clean,22.7,26.5
+2023,Q2,Outdoor,Lawn & Garden,4247.82,964.26,1125.67,2157.89,Synthetic portfolio dataset,Clean,22.7,26.5
+2023,Q2,Outdoor,Outdoor Living,3076.01,698.25,815.14,1562.61,Synthetic portfolio dataset,Clean,22.7,26.5
+2023,Q3,Outdoor,Lawn & Garden,4596.68,1043.45,1218.12,2335.11,Synthetic portfolio dataset,Clean,22.7,26.5
+2023,Q3,Outdoor,Outdoor Living,3328.63,755.6,882.09,1690.94,Synthetic portfolio dataset,Clean,22.7,26.5
+2023,Q4,Outdoor,Lawn & Garden,2558.27,580.73,677.94,1299.6,Synthetic portfolio dataset,Clean,22.7,26.5
+2023,Q4,Outdoor,Outdoor Living,1852.54,420.53,490.92,941.09,Synthetic portfolio dataset,Clean,22.7,26.5
+2024,Q1,Outdoor,Lawn & Garden,2758.46,659.27,719.96,1379.23,Synthetic portfolio dataset,Clean,23.9,26.1
+2024,Q1,Outdoor,Outdoor Living,1997.51,477.4,521.35,998.75,Synthetic portfolio dataset,Clean,23.9,26.1
+2024,Q2,Outdoor,Lawn & Garden,4654.91,1112.52,1214.93,2327.45,Synthetic portfolio dataset,Clean,23.9,26.1
+2024,Q2,Outdoor,Outdoor Living,3370.79,805.62,879.78,1685.4,Synthetic portfolio dataset,Clean,23.9,26.1
+2024,Q3,Outdoor,Lawn & Garden,5037.19,1203.89,1314.71,2518.6,Synthetic portfolio dataset,Clean,23.9,26.1
+2024,Q3,Outdoor,Outdoor Living,3647.62,871.78,952.03,1823.81,Synthetic portfolio dataset,Clean,23.9,26.1
+2024,Q4,Outdoor,Lawn & Garden,2803.44,670.02,731.7,1401.72,Synthetic portfolio dataset,Clean,23.9,26.1
+2024,Q4,Outdoor,Outdoor Living,2030.08,485.19,529.85,1015.04,Synthetic portfolio dataset,Clean,23.9,26.1
+2025,Q1,Outdoor,Lawn & Garden,3020.67,761.21,779.33,1480.13,Synthetic portfolio dataset,Clean,25.2,25.8
+2025,Q1,Outdoor,Outdoor Living,2187.38,551.22,564.35,1071.82,Synthetic portfolio dataset,Clean,25.2,25.8
+2025,Q2,Outdoor,Lawn & Garden,5097.39,1284.54,1315.13,2497.72,Synthetic portfolio dataset,Clean,25.2,25.8
+2025,Q2,Outdoor,Outdoor Living,3691.21,930.19,952.33,1808.69,Synthetic portfolio dataset,Clean,25.2,25.8
+2025,Q3,Outdoor,Lawn & Garden,5516.01,1390.04,1423.13,2702.85,Synthetic portfolio dataset,Clean,25.2,25.8
+2025,Q3,Outdoor,Outdoor Living,3994.35,1006.58,1030.54,1957.23,Synthetic portfolio dataset,Clean,25.2,25.8
+2025,Q4,Outdoor,Lawn & Garden,3069.92,773.62,792.04,1504.26,Synthetic portfolio dataset,Clean,25.2,25.8
+2025,Q4,Outdoor,Outdoor Living,2223.05,560.21,573.55,1089.29,Synthetic portfolio dataset,Clean,25.2,25.8
+2022,Q1,Flooring,Hard Flooring,2539.18,563.7,718.59,1256.9,Synthetic portfolio dataset,Clean,22.2,28.3
+2022,Q1,Flooring,Carpet & Rugs,1367.25,303.53,386.93,676.79,Synthetic portfolio dataset,Clean,22.2,28.3
+2022,Q2,Flooring,Hard Flooring,3294.55,731.39,932.36,1630.8,Synthetic portfolio dataset,Clean,22.2,28.3
+2022,Q2,Flooring,Carpet & Rugs,1773.99,393.83,502.04,878.12,Synthetic portfolio dataset,Clean,22.2,28.3
+2022,Q3,Flooring,Hard Flooring,3514.18,780.15,994.51,1739.52,Synthetic portfolio dataset,Clean,22.2,28.3
+2022,Q3,Flooring,Carpet & Rugs,1892.25,420.08,535.51,936.67,Synthetic portfolio dataset,Clean,22.2,28.3
+2022,Q4,Flooring,Hard Flooring,2352.09,522.16,665.64,1164.28,Synthetic portfolio dataset,Clean,22.2,28.3
+2022,Q4,Flooring,Carpet & Rugs,1266.51,281.16,358.42,626.92,Synthetic portfolio dataset,Clean,22.2,28.3
+2023,Q1,Flooring,Hard Flooring,2595.61,565.84,742.34,1287.42,Synthetic portfolio dataset,Clean,21.8,28.6
+2023,Q1,Flooring,Carpet & Rugs,1397.64,304.68,399.72,693.23,Synthetic portfolio dataset,Clean,21.8,28.6
+2023,Q2,Flooring,Hard Flooring,3367.76,734.17,963.18,1670.41,Synthetic portfolio dataset,Clean,21.8,28.6
+2023,Q2,Flooring,Carpet & Rugs,1813.41,395.32,518.63,899.45,Synthetic portfolio dataset,Clean,21.8,28.6
+2023,Q3,Flooring,Hard Flooring,3592.28,783.12,1027.39,1781.77,Synthetic portfolio dataset,Clean,21.8,28.6
+2023,Q3,Flooring,Carpet & Rugs,1934.3,421.68,553.21,959.41,Synthetic portfolio dataset,Clean,21.8,28.6
+2023,Q4,Flooring,Hard Flooring,2404.35,524.15,687.65,1192.56,Synthetic portfolio dataset,Clean,21.8,28.6
+2023,Q4,Flooring,Carpet & Rugs,1294.65,282.23,370.27,642.15,Synthetic portfolio dataset,Clean,21.8,28.6
+2024,Q1,Flooring,Hard Flooring,2694.36,576.59,778.67,1339.09,Synthetic portfolio dataset,Clean,21.4,28.9
+2024,Q1,Flooring,Carpet & Rugs,1450.81,310.47,419.28,721.05,Synthetic portfolio dataset,Clean,21.4,28.9
+2024,Q2,Flooring,Hard Flooring,3495.88,748.12,1010.31,1737.45,Synthetic portfolio dataset,Clean,21.4,28.9
+2024,Q2,Flooring,Carpet & Rugs,1882.4,402.83,544.01,935.55,Synthetic portfolio dataset,Clean,21.4,28.9
+2024,Q3,Flooring,Hard Flooring,3728.94,797.99,1077.66,1853.28,Synthetic portfolio dataset,Clean,21.4,28.9
+2024,Q3,Flooring,Carpet & Rugs,2007.89,429.69,580.28,997.92,Synthetic portfolio dataset,Clean,21.4,28.9
+2024,Q4,Flooring,Hard Flooring,2495.82,534.11,721.29,1240.42,Synthetic portfolio dataset,Clean,21.4,28.9
+2024,Q4,Flooring,Carpet & Rugs,1343.91,287.6,388.39,667.92,Synthetic portfolio dataset,Clean,21.4,28.9
+2025,Q1,Flooring,Hard Flooring,2793.1,583.76,815.59,1393.76,Synthetic portfolio dataset,Clean,20.9,29.2
+2025,Q1,Flooring,Carpet & Rugs,1503.98,314.33,439.16,750.48,Synthetic portfolio dataset,Clean,20.9,29.2
+2025,Q2,Flooring,Hard Flooring,3624.0,757.42,1058.21,1808.38,Synthetic portfolio dataset,Clean,20.9,29.2
+2025,Q2,Flooring,Carpet & Rugs,1951.39,407.84,569.8,973.74,Synthetic portfolio dataset,Clean,20.9,29.2
+2025,Q3,Flooring,Hard Flooring,3865.6,807.91,1128.76,1928.94,Synthetic portfolio dataset,Clean,20.9,29.2
+2025,Q3,Flooring,Carpet & Rugs,2081.48,435.03,607.79,1038.66,Synthetic portfolio dataset,Clean,20.9,29.2
+2025,Q4,Flooring,Hard Flooring,2587.29,540.74,755.49,1291.06,Synthetic portfolio dataset,Clean,20.9,29.2
+2025,Q4,Flooring,Carpet & Rugs,1393.16,291.17,406.8,695.19,Synthetic portfolio dataset,Clean,20.9,29.2
+2022,Q1,Paint,Interior Paint,1739.48,401.82,450.53,887.14,Synthetic portfolio dataset,Clean,23.1,25.9
+2022,Q1,Paint,Exterior Paint,1159.66,267.88,300.35,591.42,Synthetic portfolio dataset,Clean,23.1,25.9
+2022,Q2,Paint,Interior Paint,2668.53,616.43,691.15,1360.95,Synthetic portfolio dataset,Clean,23.1,25.9
+2022,Q2,Paint,Exterior Paint,1779.02,410.95,460.77,907.3,Synthetic portfolio dataset,Clean,23.1,25.9
+2022,Q3,Paint,Interior Paint,2647.04,611.47,685.58,1349.99,Synthetic portfolio dataset,Clean,23.1,25.9
+2022,Q3,Paint,Exterior Paint,1764.69,407.64,457.06,899.99,Synthetic portfolio dataset,Clean,23.1,25.9
+2022,Q4,Paint,Interior Paint,1644.95,379.98,426.04,838.92,Synthetic portfolio dataset,Clean,23.1,25.9
+2022,Q4,Paint,Exterior Paint,1096.63,253.32,284.03,559.28,Synthetic portfolio dataset,Clean,23.1,25.9
+2023,Q1,Paint,Interior Paint,1811.46,425.69,470.98,914.79,Synthetic portfolio dataset,Clean,23.5,26.0
+2023,Q1,Paint,Exterior Paint,1207.64,283.8,313.99,609.86,Synthetic portfolio dataset,Clean,23.5,26.0
+2023,Q2,Paint,Interior Paint,2778.95,653.05,722.53,1403.37,Synthetic portfolio dataset,Clean,23.5,26.0
+2023,Q2,Paint,Exterior Paint,1852.63,435.37,481.68,935.58,Synthetic portfolio dataset,Clean,23.5,26.0
+2023,Q3,Paint,Interior Paint,2756.57,647.79,716.71,1392.07,Synthetic portfolio dataset,Clean,23.5,26.0
+2023,Q3,Paint,Exterior Paint,1837.72,431.86,477.81,928.05,Synthetic portfolio dataset,Clean,23.5,26.0
+2023,Q4,Paint,Interior Paint,1713.01,402.56,445.38,865.07,Synthetic portfolio dataset,Clean,23.5,26.0
+2023,Q4,Paint,Exterior Paint,1142.01,268.37,296.92,576.71,Synthetic portfolio dataset,Clean,23.5,26.0
+2024,Q1,Paint,Interior Paint,1895.44,454.91,496.6,943.93,Synthetic portfolio dataset,Clean,24.0,26.2
+2024,Q1,Paint,Exterior Paint,1263.63,303.27,331.07,629.29,Synthetic portfolio dataset,Clean,24.0,26.2
+2024,Q2,Paint,Interior Paint,2907.77,697.87,761.84,1448.07,Synthetic portfolio dataset,Clean,24.0,26.2
+2024,Q2,Paint,Exterior Paint,1938.52,465.24,507.89,965.38,Synthetic portfolio dataset,Clean,24.0,26.2
+2024,Q3,Paint,Interior Paint,2884.36,692.25,755.7,1436.41,Synthetic portfolio dataset,Clean,24.0,26.2
+2024,Q3,Paint,Exterior Paint,1922.91,461.5,503.8,957.61,Synthetic portfolio dataset,Clean,24.0,26.2
+2024,Q4,Paint,Interior Paint,1792.43,430.18,469.62,892.63,Synthetic portfolio dataset,Clean,24.0,26.2
+2024,Q4,Paint,Exterior Paint,1194.95,286.79,313.08,595.09,Synthetic portfolio dataset,Clean,24.0,26.2
+2025,Q1,Paint,Interior Paint,1991.41,487.9,523.74,979.77,Synthetic portfolio dataset,Clean,24.5,26.3
+2025,Q1,Paint,Exterior Paint,1327.61,325.26,349.16,653.18,Synthetic portfolio dataset,Clean,24.5,26.3
+2025,Q2,Paint,Interior Paint,3055.0,748.48,803.47,1503.06,Synthetic portfolio dataset,Clean,24.5,26.3
+2025,Q2,Paint,Exterior Paint,2036.67,498.98,535.64,1002.04,Synthetic portfolio dataset,Clean,24.5,26.3
+2025,Q3,Paint,Interior Paint,3030.41,742.45,797.0,1490.96,Synthetic portfolio dataset,Clean,24.5,26.3
+2025,Q3,Paint,Exterior Paint,2020.27,494.97,531.33,993.97,Synthetic portfolio dataset,Clean,24.5,26.3
+2025,Q4,Paint,Interior Paint,1883.18,461.38,495.28,926.52,Synthetic portfolio dataset,Clean,24.5,26.3
+2025,Q4,Paint,Exterior Paint,1255.45,307.59,330.18,617.68,Synthetic portfolio dataset,Clean,24.5,26.3
+2022,Q1,Building Materials,Lumber,4963.45,873.57,1221.01,2868.87,Synthetic portfolio dataset,Clean,17.6,24.6
+2022,Q1,Building Materials,Construction Materials,4061.0,714.74,999.01,2347.26,Synthetic portfolio dataset,Clean,17.6,24.6
+2022,Q2,Building Materials,Lumber,6446.51,1134.59,1585.84,3726.08,Synthetic portfolio dataset,Clean,17.6,24.6
+2022,Q2,Building Materials,Construction Materials,5274.42,928.3,1297.51,3048.61,Synthetic portfolio dataset,Clean,17.6,24.6
+2022,Q3,Building Materials,Lumber,6942.4,1221.86,1707.83,4012.71,Synthetic portfolio dataset,Clean,17.6,24.6
+2022,Q3,Building Materials,Construction Materials,5680.14,999.71,1397.32,3283.12,Synthetic portfolio dataset,Clean,17.6,24.6
+2022,Q4,Building Materials,Lumber,4747.64,835.59,1167.92,2744.14,Synthetic portfolio dataset,Clean,17.6,24.6
+2022,Q4,Building Materials,Construction Materials,3884.44,683.66,955.57,2245.2,Synthetic portfolio dataset,Clean,17.6,24.6
+2023,Q1,Building Materials,Lumber,5164.35,919.25,1275.59,2969.5,Synthetic portfolio dataset,Clean,17.8,24.7
+2023,Q1,Building Materials,Construction Materials,4225.38,752.12,1043.67,2429.59,Synthetic portfolio dataset,Clean,17.8,24.7
+2023,Q2,Building Materials,Lumber,6707.44,1193.92,1656.74,3856.78,Synthetic portfolio dataset,Clean,17.8,24.7
+2023,Q2,Building Materials,Construction Materials,5487.91,976.85,1355.51,3155.55,Synthetic portfolio dataset,Clean,17.8,24.7
+2023,Q3,Building Materials,Lumber,7223.4,1285.77,1784.18,4153.45,Synthetic portfolio dataset,Clean,17.8,24.7
+2023,Q3,Building Materials,Construction Materials,5910.05,1051.99,1459.78,3398.28,Synthetic portfolio dataset,Clean,17.8,24.7
+2023,Q4,Building Materials,Lumber,4939.81,879.29,1220.13,2840.39,Synthetic portfolio dataset,Clean,17.8,24.7
+2023,Q4,Building Materials,Construction Materials,4041.66,719.42,998.29,2323.96,Synthetic portfolio dataset,Clean,17.8,24.7
+2024,Q1,Building Materials,Lumber,5424.34,976.38,1350.66,3097.3,Synthetic portfolio dataset,Clean,18.0,24.9
+2024,Q1,Building Materials,Construction Materials,4438.09,798.86,1105.09,2534.15,Synthetic portfolio dataset,Clean,18.0,24.9
+2024,Q2,Building Materials,Lumber,7045.12,1268.12,1754.23,4022.76,Synthetic portfolio dataset,Clean,18.0,24.9
+2024,Q2,Building Materials,Construction Materials,5764.19,1037.55,1435.28,3291.35,Synthetic portfolio dataset,Clean,18.0,24.9
+2024,Q3,Building Materials,Lumber,7587.05,1365.67,1889.18,4332.2,Synthetic portfolio dataset,Clean,18.0,24.9
+2024,Q3,Building Materials,Construction Materials,6207.58,1117.37,1545.69,3544.53,Synthetic portfolio dataset,Clean,18.0,24.9
+2024,Q4,Building Materials,Lumber,5188.5,933.93,1291.94,2962.63,Synthetic portfolio dataset,Clean,18.0,24.9
+2024,Q4,Building Materials,Construction Materials,4245.13,764.12,1057.04,2423.97,Synthetic portfolio dataset,Clean,18.0,24.9
+2025,Q1,Building Materials,Lumber,5696.15,1042.39,1429.73,3224.02,Synthetic portfolio dataset,Clean,18.3,25.1
+2025,Q1,Building Materials,Construction Materials,4660.48,852.87,1169.78,2637.83,Synthetic portfolio dataset,Clean,18.3,25.1
+2025,Q2,Building Materials,Lumber,7398.14,1353.86,1856.93,4187.35,Synthetic portfolio dataset,Clean,18.3,25.1
+2025,Q2,Building Materials,Construction Materials,6053.02,1107.7,1519.31,3426.01,Synthetic portfolio dataset,Clean,18.3,25.1
+2025,Q3,Building Materials,Lumber,7967.23,1458.0,1999.77,4509.45,Synthetic portfolio dataset,Clean,18.3,25.1
+2025,Q3,Building Materials,Construction Materials,6518.64,1192.91,1636.18,3689.55,Synthetic portfolio dataset,Clean,18.3,25.1
+2025,Q4,Building Materials,Lumber,5448.49,997.07,1367.57,3083.84,Synthetic portfolio dataset,Clean,18.3,25.1
+2025,Q4,Building Materials,Construction Materials,4457.85,815.79,1118.92,2523.14,Synthetic portfolio dataset,Clean,18.3,25.1
+2023,Q2,Tools,Power Tools,4685.6,955.86,1340.08,2389.66,Synthetic portfolio dataset,Clean,20.4,28.6

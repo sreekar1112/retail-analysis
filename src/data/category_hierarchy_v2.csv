@@ -1,0 +1,13 @@
+Category_ID,Category,Subcategory_ID,Subcategory,Mapping_Status,Data_Source
+CAT-01,Tools,SUB-01-01,Power Tools,VALID,Synthetic portfolio dataset
+CAT-01,Tools,SUB-01-02,Hand Tools,VALID,Synthetic portfolio dataset
+CAT-02,Appliances,SUB-02-01,Kitchen Appliances,VALID,Synthetic portfolio dataset
+CAT-02,Appliances,SUB-02-02,Laundry Appliances,VALID,Synthetic portfolio dataset
+CAT-03,Outdoor,SUB-03-01,Lawn & Garden,VALID,Synthetic portfolio dataset
+CAT-03,Outdoor,SUB-03-02,Outdoor Living,VALID,Synthetic portfolio dataset
+CAT-04,Flooring,SUB-04-01,Hard Flooring,VALID,Synthetic portfolio dataset
+CAT-04,Flooring,SUB-04-02,Carpet & Rugs,VALID,Synthetic portfolio dataset
+CAT-05,Paint,SUB-05-01,Interior Paint,VALID,Synthetic portfolio dataset
+CAT-05,Paint,SUB-05-02,Exterior Paint,VALID,Synthetic portfolio dataset
+CAT-06,Building Materials,SUB-06-01,Lumber,VALID,Synthetic portfolio dataset
+CAT-06,Building Materials,SUB-06-02,Construction Materials,VALID,Synthetic portfolio dataset

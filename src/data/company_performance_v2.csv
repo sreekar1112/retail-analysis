@@ -1,0 +1,9 @@
+Year,Company,Revenue_Million_USD,Comparable_Sales_Growth_Pct,Store_Count,Data_Source,Data_Status
+2022,Lowe's,96500,-0.7,1730,Synthetic portfolio dataset,Synthetic
+2023,Lowe's,86000,-1.8,1720,Synthetic portfolio dataset,Synthetic
+2024,Lowe's,83500,-1.6,1705,Synthetic portfolio dataset,Synthetic
+2025,Lowe's,83700,0.2,1700,Synthetic portfolio dataset,Synthetic
+2022,Home Depot,157400,4.1,2300,Synthetic portfolio dataset,Synthetic
+2023,Home Depot,152700,-0.3,2280,Synthetic portfolio dataset,Synthetic
+2024,Home Depot,159500,-1.0,2275,Synthetic portfolio dataset,Synthetic
+2025,Home Depot,164700,3.2,2270,Synthetic portfolio dataset,Synthetic

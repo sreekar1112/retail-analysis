@@ -1,0 +1,6 @@
+{
+  "name": "Retail Market Intelligence & Competitive Insights Platform",
+  "description": "Executive retail market share, competitive intelligence, category diagnostics, and data quality validation platform for home-improvement retail analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
